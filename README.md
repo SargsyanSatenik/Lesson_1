@@ -11,18 +11,20 @@ https://gist.github.com/takekazuomi/10955889
 
 <H1>
   <ul>
-    Lesson_1
+ <H1>   Lesson_1<H1/>
+ <H2>
 <li> <a href="https://github.com/SargsyanSatenik/Lesson_1/blob/main/Types">Types <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Operators<a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Conditional Statement<a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Loop Statements <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Bitwise Operators <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Storing Real numbers <a/>
-  Lesson_2
-  <li> <a href="https://github.com/SargsyanSatenik/Lesson_1/blob/main/Types">Methods <a/>
+<h2/>
+  <H1>Lesson_2<H1/>
+<h2>  <li> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods">Methods <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Meethod and Stack<a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Recursion<a/>
-  <h1/>
+  <h2/>
 <ul/>
 
 
