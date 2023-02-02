@@ -21,4 +21,13 @@ https://gist.github.com/takekazuomi/10955889
   <H1/>
 
 
+# Lesson_2
+https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
 
+<H1>
+  <ul>
+<li> <a href="https://github.com/SargsyanSatenik/Lesson_1/blob/main/Types">Types <a/>
+<li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Operators<a/>
+<li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Conditional Statement<a/>
+<ul>
+<h1/>
