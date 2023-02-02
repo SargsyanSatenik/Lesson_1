@@ -19,9 +19,8 @@ https://gist.github.com/takekazuomi/10955889
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Loop Statements <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Bitwise Operators <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Storing Real numbers <a/>
-<h2/>
-  <H1>Lesson_2<H1/>
-<h2>  <li> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods">Methods <a/>
+<h1>Lesson_2<h1/>
+  <li> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods">Methods <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Meethod and Stack<a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Recursion<a/>
   <h2/>
