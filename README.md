@@ -1,4 +1,4 @@
-# Lesson_1
+
 <p> Links for working with github
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet<p>
 https://dev.to/kasuken/create-a-gitignore-file-with-dotnet-cli-4oho <p>
@@ -11,23 +11,21 @@ https://gist.github.com/takekazuomi/10955889
 
 <H1>
   <ul>
+    Lesson_1
 <li> <a href="https://github.com/SargsyanSatenik/Lesson_1/blob/main/Types">Types <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Operators<a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Conditional Statement<a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Loop Statements <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Bitwise Operators <a/>
 <li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Storing Real numbers <a/>
+  Lesson_2
+  <li> <a href="https://github.com/SargsyanSatenik/Lesson_1/blob/main/Types">Methods <a/>
+<li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Meethod and Stack<a/>
+<li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Recursion<a/>
+  <h1/>
 <ul/>
-  <H1/>
 
 
-# Lesson_2
-https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
 
-<H1>
-  <ul>
-<li> <a href="https://github.com/SargsyanSatenik/Lesson_1/blob/main/Types">Types <a/>
-<li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Operators<a/>
-<li> <a href="https://github.com/SatSargsyan/Strings_and_streams#readme">Conditional Statement<a/>
-<ul>
-<h1/>
+
+
