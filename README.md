@@ -21,6 +21,4 @@ https://gist.github.com/takekazuomi/10955889
   <H1/>
 
 
-```int a = 123;
-System.Int32 b = 123;
-```
+
